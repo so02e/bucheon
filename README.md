@@ -75,5 +75,6 @@ ex.예측량 검증 지역 중심으로 대중교통(버스, 지하철, 단거�
 ● Spark
 
 - **분석도구**
+Jupyter Notebook, Pandas, Numpy, Folium**
 
-**Jupyter Notebook, Pandas, Numpy, Folium**
+### 사이트 : http://www.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=148003002002004
