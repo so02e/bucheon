@@ -1,0 +1,5 @@
+git remote add upstream "원본 git"
+git pull upstream main
+
+작업 수정 후
+github에서 pull request

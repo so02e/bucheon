@@ -1,2 +1,13 @@
+# 원본 git 초기 설정
 git remote add upstream "원본 git"
+
+# 원본 Repository(Git)에서 로컬 및 fork git에 업데이트
 git pull upstream main
+git push origin main
+
+# 작업 수정 후
+git add "수정파일"
+git commit -m "수정 내용"
+git push origin main
+
+본인 github에서 pull request

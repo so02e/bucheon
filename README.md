@@ -79,3 +79,8 @@ Jupyter Notebook, Pandas, Numpy, Folium**
 
 ### 사이트 : http://www.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=148003002002004
 ### 노션 : https://www.notion.so/e9d66866629e4c46946417ae7b882ea8?v=8f970929476242cab18d7c5f41368817
+#### 기획안 (개발계획) 발표
+
+- 기간: 2021-04-16 (금)
+- 형식: ppt 또는 기획서 파일(word or PDF)
+- 기타: 주제선정 배경, 
