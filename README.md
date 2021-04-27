@@ -48,4 +48,4 @@
 
 ## 기타
 
-- 발표자료: 자세히 보기
+- 발표자료: [자세히 보기](https://github.com/so02e/bucheon/blob/main/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C/%5B1%EC%A1%B0%5D%20%EC%A0%84%EA%B3%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
