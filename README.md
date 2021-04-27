@@ -43,6 +43,7 @@
 - 언어: Python
 - 분석환경: Jupyter lab
 - 사용패키지: Pandas, Folium, Matplotlib, seaborn, geopandas, Numpy
+- 협업도구: Github, Notion
 
 
 
